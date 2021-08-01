@@ -13,7 +13,7 @@
 ## 📷 Demonstration
 
 <div align="center" >
-  <img src="clone!.gif" height="600">
+  <img src="clone!.gif">
 </div>
 
 
