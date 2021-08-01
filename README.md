@@ -2,13 +2,8 @@
 <br>
   <img src="tinder-clone.png" alt="Tinder Clone" width="400">
 <br>
+  Clone of tinder's match page
 </h1>
-
-
-## 💻 The Project
-<p align="justify">Clone of tinder's match page!</p>
-
-
 
 ## 📷 Demonstration
 
