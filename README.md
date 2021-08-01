@@ -8,15 +8,15 @@
 ## 💻 The Project
 <p align="justify">Clone of tinder's match page!</p>
 
----
+
 
 ## 📷 Demonstration
 
 <div align="center" >
-  <img src="clone!.gif" height="200">
+  <img src="clone!.gif" height="600">
 </div>
 
----
+
 
 ## 🚀 Technologies
 
@@ -26,12 +26,12 @@ This project was developed with the following technologies:
 
 - ✔️ CSS
 
----
+
 ## ⚙ Settings
 1 - To make a gradient: https://cssgradient.io/<br>
 2 - Font Used: https://fonts.google.com/ 
 
----
+
 <br>
 Made with 💜 by Rafael Maciel
 
