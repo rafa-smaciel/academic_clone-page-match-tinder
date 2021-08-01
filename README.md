@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="tinder-clone.png" alt="Tinder Clone" width="200">
+  <img src="tinder-clone.png" alt="Tinder Clone" width="400">
 <br>
 </h1>
 
